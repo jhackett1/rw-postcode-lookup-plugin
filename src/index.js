@@ -52,6 +52,13 @@ if (form && gravityForm) {
         )
         // 2. make gravity form visible again
         gravityForm.style.display = "block"
+        // 3. update button urls
+        document.querySelector(".example-class-to-find").href =
+          mayoralty.facebook
+        document.querySelector(".example-class-to-find").href =
+          mayoralty.whatsapp
+        document.querySelector(".example-class-to-find").href =
+          mayoralty.twitter
       } else {
         // handle no elections
         gravityForm.style.display = "none"
