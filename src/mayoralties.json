@@ -1,0 +1,189 @@
+[
+    {
+        "districts": [
+            "Manchester",
+            "Wigan",
+            "Bolton",
+            "Bury",
+            "Oldham",
+            "Rochdale",
+            "Salford",
+            "Stockport",
+            "Tameside",
+            "Trafford"
+        ],
+        "mayoralty": "Greater Manchester",
+        "twitter": "https: //twitter.com/intent/tweet?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20Greater%20Manchester%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3&url=www.culturecommons.uk%2Fpledge",
+        "facebook": "https: //www.facebook.com/sharer/sharer.php?u=www.culturecommons.uk%2Fpledge?utm_source=facebook&utm_medium=social&utm_campaign=_fb",
+        "whatsapp": "https: //api.whatsapp.com/send?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20Greater%20Manchester%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3www.culturecommons.uk%2Fpledge",
+        "cc": [
+            "example1@email.com",
+            "example2@email.com",
+            "example3@email.com"
+        ],
+        "emailSubject": "Will you support the creative industries in Greater Manchester?"
+    },
+    {
+        "districts": [
+            "Liverpool",
+            "St. Helens",
+            "Sefton",
+            "Knowsley",
+            "Wirral",
+            "Halton"
+        ],
+        "mayoralty": "Liverpool City Region",
+        "twitter": "https: //twitter.com/intent/tweet?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20the%20Liverpool%20City%20Region%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3&url=www.culturecommons.uk%2Fpledge",
+        "facebook": "https: //www.facebook.com/sharer/sharer.php?u=www.culturecommons.uk%2Fpledge?utm_source=facebook&utm_medium=social&utm_campaign=_fb",
+        "whatsapp": "https: //api.whatsapp.com/send?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20the%20Liverpool%20City%20Region%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3www.culturecommons.uk%2Fpledge",
+        "cc": [
+            "example1@email.com",
+            "example2@email.com",
+            "example3@email.com"
+        ],
+        "emailSubject": "Will you support the creative industries in the Liverpool City Region?"
+    },
+    {
+        "districts": [
+            "Leeds",
+            "Bradford",
+            "Calderdale",
+            "Kirklees",
+            "Wakefield"
+        ],
+        "mayoralty": "West Yorkshire",
+        "twitter": "https: //twitter.com/intent/tweet?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20West%20Yorkshire%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3&url=www.culturecommons.uk%2Fpledge",
+        "facebook": "https: //www.facebook.com/sharer/sharer.php?u=www.culturecommons.uk%2Fpledge?utm_source=facebook&utm_medium=social&utm_campaign=_fb",
+        "whatsapp": "https: //api.whatsapp.com/send?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20West%20Yorkshire%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3www.culturecommons.uk%2Fpledge",
+        "cc": [
+            "example1@email.com",
+            "example2@email.com",
+            "example3@email.com"
+        ],
+        "emailSubject": "Will you support the creative industries in the West Yorkshire?"
+    },
+    {
+        "districts": [
+            "Bristol",
+            "Bath and North East Somerset",
+            "South Gloucestershire"
+        ],
+        "mayoralty": "West of England",
+        "twitter": "https: //twitter.com/intent/tweet?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20the%20West%20of%20England%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3&url=www.culturecommons.uk%2Fpledge",
+        "facebook": "https: //www.facebook.com/sharer/sharer.php?u=www.culturecommons.uk%2Fpledge?utm_source=facebook&utm_medium=social&utm_campaign=_fb",
+        "whatsapp": "https: //api.whatsapp.com/send?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20the%20West%20of%20England%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3www.culturecommons.uk%2Fpledge",
+        "cc": [
+            "example1@email.com",
+            "example2@email.com",
+            "example3@email.com"
+        ],
+        "emailSubject": "Will you support the creative industries in the West of England?"
+    },
+    {
+        "districts": [
+            "Peterborough",
+            "Cambridge",
+            "East Cambridgeshire",
+            "Fenland",
+            "Huntingdonshire",
+            "South Cambridgeshire"
+        ],
+        "mayoralty": "Cambridgeshire and Peterborough",
+        "twitter": "https: //twitter.com/intent/tweet?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20Cambridgeshire%20and%20Peterborough%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3&url=www.culturecommons.uk%2Fpledge",
+        "facebook": "https: //www.facebook.com/sharer/sharer.php?u=www.culturecommons.uk%2Fpledge?utm_source=facebook&utm_medium=social&utm_campaign=_fb",
+        "whatsapp": "https: //api.whatsapp.com/send?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20Cambridgeshire%20and%20Peterborough%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3www.culturecommons.uk%2Fpledge",
+        "cc": [
+            "example1@email.com",
+            "example2@email.com",
+            "example3@email.com"
+        ],
+        "emailSubject": "Will you support the creative industries in Cambridgeshire and Peterborough?"
+    },
+    {
+        "districts": [
+            "Birmingham",
+            "Coventry",
+            "Dudley",
+            "Sandwell",
+            "Solihull",
+            "Walsall",
+            "Wolverhampton"
+        ],
+        "mayoralty": "West Midlands",
+        "twitter": "https: //twitter.com/intent/tweet?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20the%20West%20Midlands%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3&url=www.culturecommons.uk%2Fpledge",
+        "facebook": "https: //www.facebook.com/sharer/sharer.php?u=www.culturecommons.uk%2Fpledge?utm_source=facebook&utm_medium=social&utm_campaign=_fb",
+        "whatsapp": "https: //api.whatsapp.com/send?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20the%20West%20Midlands%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3www.culturecommons.uk%2Fpledge",
+        "cc": [
+            "example1@email.com",
+            "example2@email.com",
+            "example3@email.com"
+        ],
+        "emailSubject": "Will you support the creative industries in the West Midlands?"
+    },
+    {
+        "districts": [
+            "Darlington",
+            "Hartlepool",
+            "Middlesbrough",
+            "Redcar and Cleveland",
+            "Stockton-on-Tees"
+        ],
+        "mayoralty": "Tees Valley",
+        "twitter": "https: //twitter.com/intent/tweet?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20the%20Tees%20Valley%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3&url=www.culturecommons.uk%2Fpledge",
+        "facebook": "https: //www.facebook.com/sharer/sharer.php?u=www.culturecommons.uk%2Fpledge?utm_source=facebook&utm_medium=social&utm_campaign=_fb",
+        "whatsapp": "https: //api.whatsapp.com/send?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20the%20Tees%20Valley%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3www.culturecommons.uk%2Fpledge",
+        "cc": [
+            "example1@email.com",
+            "example2@email.com",
+            "example3@email.com"
+        ],
+        "emailSubject": "Will you support the creative industries in the Tees Valley?"
+    },
+    {
+        "districts": [
+            "Barking and Dagenham",
+            "Barnet",
+            "Bexley",
+            "Brent",
+            "Bromley",
+            "Camden",
+            "Croydon",
+            "Ealing",
+            "Enfield",
+            "Greenwich",
+            "Hackney",
+            "Hammersmith and Fulham",
+            "Haringey",
+            "Harrow",
+            "Havering",
+            "Hillingdon",
+            "Hounslow",
+            "Islington",
+            "Kensington and Chelsea",
+            "Kingston upon Thames",
+            "Lambeth",
+            "Lewisham",
+            "Merton",
+            "Newham",
+            "Redbridge",
+            "Richmond upon Thames",
+            "Southwark",
+            "Sutton",
+            "Tower Hamlets",
+            "Waltham Forest",
+            "Wandsworth",
+            "Westminster",
+            "City of London"
+        ],
+        "mayoralty": "London",
+        "twitter": "https: //twitter.com/intent/tweet?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20London%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3&url=www.culturecommons.uk%2Fpledge",
+        "facebook": "https: //www.facebook.com/sharer/sharer.php?u=www.culturecommons.uk%2Fpledge?utm_source=facebook&utm_medium=social&utm_campaign=_fb",
+        "whatsapp": "https: //api.whatsapp.com/send?text=I've%20just%20asked%20every%20mayoral%20candidate%20in%20London%20to%20pledge%20to%20protect%20our%20cultural%20industries.%20Join%20me%20and%20send%20an%20email%20now%20%F0%9F%93%A3www.culturecommons.uk%2Fpledge",
+        "cc": [
+            "example1@email.com",
+            "example2@email.com",
+            "example3@email.com"
+        ],
+        "emailSubject": "Will you support the creative industries in London"
+    }
+]
